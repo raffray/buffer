@@ -8,3 +8,4 @@ It is dynamic in the sense that it will reallocate memory if we try to write bey
 
 This module will then be used in conjunction with files; we can load a whole file in a buffer, do our manipulations on the data and re-synchronize the buffer with the file associated to it when we are done.
 
+*** to be continued ***
