@@ -21,6 +21,24 @@ with the file associated to it when we are done.
 
 
 ********************************************************************************
+****************  How to use it                                 ****************
+********************************************************************************
+
+Functions you will be using:
+
+* init process *
+
+  ** void buffer_init(buffer_t *buf);
+  this will initialize a zero-filled buffer of MIN_BUFFER_SIZE bytes.
+  (128 at the moment).
+
+  Also available:
+  ** void buffer_init2(buffer_t *buf, U4 size);
+  you will here initiailize a zero-filled buffer of "size" bytes.
+  
+  ** void buffer_open(buffer_t *buf, UC *data, U4 size);
+  you will here initiailize a buffer with the byte-content of "data"
+
 
 
 
