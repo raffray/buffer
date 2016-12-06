@@ -1,7 +1,7 @@
 #include "includes.h"
 #include "byte.h"
 #include "extern.h"
-#include "err.h"
+//#include "err.h"
 
 #ifdef L_ENDIAN
 U4 swapU4(U4 val) { return ( (((val) >> 24) & 0x000000FF)         | (((val) >>  8) & 0x0000FF00)         |
