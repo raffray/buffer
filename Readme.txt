@@ -40,6 +40,6 @@ Functions you will be using:
   you will here initiailize a buffer with the byte-content of "data"
 
 
-
+** unstaged? **
 
 *** to be continued ***
