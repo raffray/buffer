@@ -2,6 +2,9 @@
 ****************  This is a module for handling dynamic buffers ****************
 ********************************************************************************
 
+*** Note: this is being used as my first git project
+***       with the purpose of learning git
+
 It was first developped as a need for manipulating media files such as mp3s or
 jpegs
 
